@@ -36,7 +36,7 @@ footer {
 
 ul.posts { 
     margin: 0px auto 0px; 
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
 ul.posts li {
@@ -44,9 +44,10 @@ ul.posts li {
 }
 
 h2 {
-  margin: 0px;
+  margin: 20px;
 }
   
 h3 {
   margin: 0px;
+  font-size: 1px;
 }
